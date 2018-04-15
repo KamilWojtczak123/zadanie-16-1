@@ -1,0 +1,26 @@
+{
+  "name": "zadanie-16-1",
+  "version": "1.0.0",
+  "description": "podstawy webpacka",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamil Wojtczak",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.5.0",
+    "webpack-env": "^0.8.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pierwsze spotkanie z webpackiem"
+  },
+  "keywords": [
+    "webpack"
+  ]
+}
