@@ -10,7 +10,7 @@
   "author": "Kamil Wojtczak",
   "license": "ISC",
   "dependencies": {
-    "webpack": "^4.5.0",
+    "webpack": "^2.0.0",
     "webpack-env": "^0.8.0"
   },
   "devDependencies": {
